@@ -11,7 +11,6 @@ function App() {
       <h2>
         <em>Counter</em>
       </h2>
-      const [count, setCount] = useState(0);
       <Counter count={count} setCount={setCount} />
       <br />
       <h2>
